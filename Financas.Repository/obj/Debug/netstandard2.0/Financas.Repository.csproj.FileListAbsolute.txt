@@ -1,0 +1,3 @@
+C:\Users\thalu\Documents\Thales\Class\VS\AppFinancas\Financas.Repository\obj\Debug\netstandard2.0\Financas.Repository.csproj.CoreCompileInputs.cache
+C:\Users\thalu\Documents\Thales\Class\VS\AppFinancas\Financas.Repository\obj\Debug\netstandard2.0\Financas.Repository.AssemblyInfoInputs.cache
+C:\Users\thalu\Documents\Thales\Class\VS\AppFinancas\Financas.Repository\obj\Debug\netstandard2.0\Financas.Repository.AssemblyInfo.cs

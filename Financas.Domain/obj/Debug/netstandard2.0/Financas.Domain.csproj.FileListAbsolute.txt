@@ -1,0 +1,8 @@
+C:\Users\thalu\Documents\Thales\Class\VS\AppFinancas\Financas.Domain\bin\Debug\netstandard2.0\Financas.Domain.deps.json
+C:\Users\thalu\Documents\Thales\Class\VS\AppFinancas\Financas.Domain\bin\Debug\netstandard2.0\Financas.Domain.dll
+C:\Users\thalu\Documents\Thales\Class\VS\AppFinancas\Financas.Domain\bin\Debug\netstandard2.0\Financas.Domain.pdb
+C:\Users\thalu\Documents\Thales\Class\VS\AppFinancas\Financas.Domain\obj\Debug\netstandard2.0\Financas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\thalu\Documents\Thales\Class\VS\AppFinancas\Financas.Domain\obj\Debug\netstandard2.0\Financas.Domain.AssemblyInfoInputs.cache
+C:\Users\thalu\Documents\Thales\Class\VS\AppFinancas\Financas.Domain\obj\Debug\netstandard2.0\Financas.Domain.AssemblyInfo.cs
+C:\Users\thalu\Documents\Thales\Class\VS\AppFinancas\Financas.Domain\obj\Debug\netstandard2.0\Financas.Domain.dll
+C:\Users\thalu\Documents\Thales\Class\VS\AppFinancas\Financas.Domain\obj\Debug\netstandard2.0\Financas.Domain.pdb

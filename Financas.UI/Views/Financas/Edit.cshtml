@@ -1,0 +1,34 @@
+@model AppFinancas.Financas.Domain.Financa
+
+<div class="container">
+    <div class="form-horizontal">
+        <form action="Editar" method="Post">
+
+            <div class="form-group">
+                <label>Código</label>
+                <input class="form-control" type="text" name="id" value="@Model.id" readonly/>
+            </div>
+            <div class="form-group">
+                <label>Data da despesa</label>
+                <input class="form-control" type="text" name="data" value="@Model.data" />
+            </div>
+            <div class="form-group">
+                <label>Número do documento</label>
+                <input class="form-control" type="number" name="numero_doc" value="@Model.numero_doc" />
+            </div>
+            <div class="form-group">
+                <label>Grupo da despesa</label>
+                <input class="form-control" type="text" name="grupo_despesa" value="@Model.grupo_despesa" />
+            </div>
+            <div class="form-group">
+                <label>Local de compra</label>
+                <input class="form-control" type="number" name="local_compra" value="@Model.local_compra" />
+            </div>
+            <div class="form-group">
+                <label>Valor da despesa</label>
+                <input class="form-control" type="text" name="valor" value="@Model.valor" />
+            </div>
+            <input class="btn btn-primary" type="submit" value="Salvar" />
+        </form>
+    </div>
+</div>
