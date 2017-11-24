@@ -1,4 +1,7 @@
 @model AppFinancas.Financas.Domain.Financa
+@{
+    View.Title = "Create";
+}
 
 <div class="container">
     <div class="form-horizontal">
@@ -13,9 +16,16 @@
                 <input class="form-control" type="number" name="numero_doc" />
             </div>
             <div class="form-group">
-                <label>Grupo da despesa</label>
-                <input class="form-control" type="text" name="grupo_despesa" required />
-            </div>
+            <label>Cidade</label>
+            <select class="form-control" name="Despesa.id">
+                    <option value="value">Selecione o grupo</option>
+
+                    @foreach (Financas.Domain.Despesa item in ViewBag.Despesa)
+                    {
+                        <option value="@item.id">@item.nome</option>
+                    }
+                </select>
+            </div>    
             <div class="form-group">
                 <label>Local de compra</label>
                 <input class="form-control" type="text" name="local_compra" required />

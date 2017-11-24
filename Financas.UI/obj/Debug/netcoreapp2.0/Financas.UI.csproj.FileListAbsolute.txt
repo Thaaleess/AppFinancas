@@ -1,0 +1,14 @@
+C:\Users\thalu\Documents\Thales\Class\VS\AppFinancas\Financas.UI\bin\Debug\netcoreapp2.0\Financas.UI.deps.json
+C:\Users\thalu\Documents\Thales\Class\VS\AppFinancas\Financas.UI\bin\Debug\netcoreapp2.0\Financas.UI.runtimeconfig.json
+C:\Users\thalu\Documents\Thales\Class\VS\AppFinancas\Financas.UI\bin\Debug\netcoreapp2.0\Financas.UI.runtimeconfig.dev.json
+C:\Users\thalu\Documents\Thales\Class\VS\AppFinancas\Financas.UI\bin\Debug\netcoreapp2.0\Financas.UI.dll
+C:\Users\thalu\Documents\Thales\Class\VS\AppFinancas\Financas.UI\bin\Debug\netcoreapp2.0\Financas.UI.pdb
+C:\Users\thalu\Documents\Thales\Class\VS\AppFinancas\Financas.UI\bin\Debug\netcoreapp2.0\Financas.Domain.dll
+C:\Users\thalu\Documents\Thales\Class\VS\AppFinancas\Financas.UI\bin\Debug\netcoreapp2.0\Financas.Repository.dll
+C:\Users\thalu\Documents\Thales\Class\VS\AppFinancas\Financas.UI\bin\Debug\netcoreapp2.0\Financas.Repository.pdb
+C:\Users\thalu\Documents\Thales\Class\VS\AppFinancas\Financas.UI\bin\Debug\netcoreapp2.0\Financas.Domain.pdb
+C:\Users\thalu\Documents\Thales\Class\VS\AppFinancas\Financas.UI\obj\Debug\netcoreapp2.0\Financas.UI.csproj.CoreCompileInputs.cache
+C:\Users\thalu\Documents\Thales\Class\VS\AppFinancas\Financas.UI\obj\Debug\netcoreapp2.0\Financas.UI.AssemblyInfoInputs.cache
+C:\Users\thalu\Documents\Thales\Class\VS\AppFinancas\Financas.UI\obj\Debug\netcoreapp2.0\Financas.UI.AssemblyInfo.cs
+C:\Users\thalu\Documents\Thales\Class\VS\AppFinancas\Financas.UI\obj\Debug\netcoreapp2.0\Financas.UI.dll
+C:\Users\thalu\Documents\Thales\Class\VS\AppFinancas\Financas.UI\obj\Debug\netcoreapp2.0\Financas.UI.pdb

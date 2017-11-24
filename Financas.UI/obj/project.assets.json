@@ -5035,7 +5035,9 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
-          "Financas.Domain": "1.0.0"
+          "Financas.Domain": "1.0.0",
+          "Pomelo.AspNetCore.Extensions": "2.0.0-preview2-CI10041",
+          "Pomelo.EntityFrameworkCore.MySql": "2.0.0"
         },
         "compile": {
           "bin/placeholder/Financas.Repository.dll": {}
@@ -13144,9 +13146,7 @@
       "Financas.Domain >= 1.0.0",
       "Financas.Repository >= 1.0.0",
       "Microsoft.AspNetCore.All >= 2.0.0",
-      "Microsoft.NETCore.App >= 2.0.0",
-      "Pomelo.AspNetCore.Extensions >= 2.0.0-preview2-CI10041",
-      "Pomelo.EntityFrameworkCore.MySql >= 2.0.0"
+      "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
   "packageFolders": {
@@ -13156,11 +13156,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\thalu\\Documents\\Thales\\Class\\VS\\AppFinancas\\Financas.UI\\Financas.UI.csproj",
+      "projectUniqueName": "C:\\Users\\thalu\\Documents\\Thales\\Class\\VS\\AppFinancas\\Financas.UI\\Financas.UI.csproj",
       "projectName": "Financas.UI",
-      "projectPath": "c:\\Users\\thalu\\Documents\\Thales\\Class\\VS\\AppFinancas\\Financas.UI\\Financas.UI.csproj",
+      "projectPath": "C:\\Users\\thalu\\Documents\\Thales\\Class\\VS\\AppFinancas\\Financas.UI\\Financas.UI.csproj",
       "packagesPath": "C:\\Users\\thalu\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\thalu\\Documents\\Thales\\Class\\VS\\AppFinancas\\Financas.UI\\obj\\",
+      "outputPath": "C:\\Users\\thalu\\Documents\\Thales\\Class\\VS\\AppFinancas\\Financas.UI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13177,11 +13177,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "c:\\Users\\thalu\\Documents\\Thales\\Class\\VS\\AppFinancas\\Financas.Repository\\Financas.Repository.csproj": {
-              "projectPath": "c:\\Users\\thalu\\Documents\\Thales\\Class\\VS\\AppFinancas\\Financas.Repository\\Financas.Repository.csproj"
+            "C:\\Users\\thalu\\Documents\\Thales\\Class\\VS\\AppFinancas\\Financas.Repository\\Financas.Repository.csproj": {
+              "projectPath": "C:\\Users\\thalu\\Documents\\Thales\\Class\\VS\\AppFinancas\\Financas.Repository\\Financas.Repository.csproj"
             },
-            "c:\\Users\\thalu\\Documents\\Thales\\Class\\VS\\AppFinancas\\Financas.Domain\\Financas.Domain.csproj": {
-              "projectPath": "c:\\Users\\thalu\\Documents\\Thales\\Class\\VS\\AppFinancas\\Financas.Domain\\Financas.Domain.csproj"
+            "C:\\Users\\thalu\\Documents\\Thales\\Class\\VS\\AppFinancas\\Financas.Domain\\Financas.Domain.csproj": {
+              "projectPath": "C:\\Users\\thalu\\Documents\\Thales\\Class\\VS\\AppFinancas\\Financas.Domain\\Financas.Domain.csproj"
             }
           }
         }
@@ -13201,14 +13201,6 @@
             "autoReferenced": true
           },
           "Microsoft.AspNetCore.All": {
-            "target": "Package",
-            "version": "2.0.0"
-          },
-          "Pomelo.AspNetCore.Extensions": {
-            "target": "Package",
-            "version": "2.0.0-preview2-CI10041"
-          },
-          "Pomelo.EntityFrameworkCore.MySql": {
             "target": "Package",
             "version": "2.0.0"
           }

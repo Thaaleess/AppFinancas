@@ -6,8 +6,8 @@ namespace Financas.Repository
 {
     public class FinancaRepository : IFinancaRepository
     {
-        private FinancasContext context;
-        public FinancaRepository(FinancasContext context){
+        private DataContext context;
+        public FinancaRepository(DataContext context){
             this.context = context;
         }
 

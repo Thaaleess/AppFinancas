@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\thalu\\Documents\\Thales\\Class\\VS\\AppFinancas\\Financas.Domain\\Financas.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\thalu\\Documents\\Thales\\Class\\VS\\AppFinancas\\Financas.Domain\\Financas.Domain.csproj",
       "projectName": "Financas.Domain",
-      "projectPath": "c:\\Users\\thalu\\Documents\\Thales\\Class\\VS\\AppFinancas\\Financas.Domain\\Financas.Domain.csproj",
+      "projectPath": "C:\\Users\\thalu\\Documents\\Thales\\Class\\VS\\AppFinancas\\Financas.Domain\\Financas.Domain.csproj",
       "packagesPath": "C:\\Users\\thalu\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\thalu\\Documents\\Thales\\Class\\VS\\AppFinancas\\Financas.Domain\\obj\\",
+      "outputPath": "C:\\Users\\thalu\\Documents\\Thales\\Class\\VS\\AppFinancas\\Financas.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

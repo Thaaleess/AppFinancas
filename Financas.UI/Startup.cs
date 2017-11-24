@@ -25,7 +25,7 @@ namespace Financas.UI
         {
             services.AddMvc();
 
-            services.AddDbContext<FinancasContext>(x=>x.UseMySql(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<DataContext>(x=>x.UseMySql(Configuration.GetConnectionString("DefaultConnection")));
 
             services.AddTransient<IFinancaRepository,FinancaRepository>();
         }
