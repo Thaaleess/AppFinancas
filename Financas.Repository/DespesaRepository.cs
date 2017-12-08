@@ -7,6 +7,12 @@ namespace Financas.Repository
     public class DespesaRepository : IDespesaRepository
     {
         private readonly DataContext context;
+
+        public DespesaRepository(DataContext context)
+        {
+            this.context = context;
+        }
+
         public Despesa GetById(int id)
         {
             return context.Despesas.Find(id);

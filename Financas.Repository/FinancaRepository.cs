@@ -7,6 +7,7 @@ namespace Financas.Repository
     public class FinancaRepository : IFinancaRepository
     {
         private DataContext context;
+
         public FinancaRepository(DataContext context){
             this.context = context;
         }
@@ -29,7 +30,7 @@ namespace Financas.Repository
 
         public Financa GetById(int id)
         {
-            return context.Financas.SingleOrDefault(x=>x.id == id);
+            return context.Financas.Include(x=>x.Despesa).SingleOrDefault(x=>x.Id == id);
         }
 
         public List<Financa> GetAll()

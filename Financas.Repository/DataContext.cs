@@ -1,5 +1,6 @@
 using Financas.Domain;
 using Microsoft.EntityFrameworkCore;
+using System;
 
 namespace Financas.Repository
 {

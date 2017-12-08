@@ -15,5 +15,6 @@
   <ItemGroup>
     <ProjectReference Include="..\Financas.Repository\Financas.Repository.csproj" />
     <ProjectReference Include="..\Financas.Domain\Financas.Domain.csproj" />
+    <ProjectReference Include="..\AppFinancas.WebApi\AppFinancas.WebApi.csproj" />
   </ItemGroup>
 </Project>

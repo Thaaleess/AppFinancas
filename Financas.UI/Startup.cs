@@ -23,11 +23,12 @@ namespace Financas.UI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddMvc();
-
             services.AddDbContext<DataContext>(x=>x.UseMySql(Configuration.GetConnectionString("DefaultConnection")));
 
-            services.AddTransient<IFinancaRepository,FinancaRepository>();
+            services.AddScoped<IFinancaRepository,FinancaRepository>();
+            services.AddScoped<IDespesaRepository,DespesaRepository>();
+
+            services.AddMvc();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
